@@ -1,0 +1,59 @@
+C:\Users\FABI54148\source\repos\SurveyApp\bin\Debug\net6.0\StoryGame.exe
+C:\Users\FABI54148\source\repos\SurveyApp\bin\Debug\net6.0\StoryGame.deps.json
+C:\Users\FABI54148\source\repos\SurveyApp\bin\Debug\net6.0\StoryGame.runtimeconfig.json
+C:\Users\FABI54148\source\repos\SurveyApp\bin\Debug\net6.0\StoryGame.dll
+C:\Users\FABI54148\source\repos\SurveyApp\bin\Debug\net6.0\StoryGame.pdb
+C:\Users\FABI54148\source\repos\SurveyApp\obj\Debug\net6.0\StoryGame.csproj.AssemblyReference.cache
+C:\Users\FABI54148\source\repos\SurveyApp\obj\Debug\net6.0\StoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FABI54148\source\repos\SurveyApp\obj\Debug\net6.0\StoryGame.AssemblyInfoInputs.cache
+C:\Users\FABI54148\source\repos\SurveyApp\obj\Debug\net6.0\StoryGame.AssemblyInfo.cs
+C:\Users\FABI54148\source\repos\SurveyApp\obj\Debug\net6.0\StoryGame.csproj.CoreCompileInputs.cache
+C:\Users\FABI54148\source\repos\SurveyApp\obj\Debug\net6.0\StoryGame.dll
+C:\Users\FABI54148\source\repos\SurveyApp\obj\Debug\net6.0\refint\StoryGame.dll
+C:\Users\FABI54148\source\repos\SurveyApp\obj\Debug\net6.0\StoryGame.pdb
+C:\Users\FABI54148\source\repos\SurveyApp\obj\Debug\net6.0\StoryGame.genruntimeconfig.cache
+C:\Users\FABI54148\source\repos\SurveyApp\obj\Debug\net6.0\ref\StoryGame.dll
+C:\Users\FABI54148\source\repos\StoryGame\bin\Debug\net6.0\StoryGame.exe
+C:\Users\FABI54148\source\repos\StoryGame\bin\Debug\net6.0\StoryGame.deps.json
+C:\Users\FABI54148\source\repos\StoryGame\bin\Debug\net6.0\StoryGame.runtimeconfig.json
+C:\Users\FABI54148\source\repos\StoryGame\bin\Debug\net6.0\StoryGame.dll
+C:\Users\FABI54148\source\repos\StoryGame\bin\Debug\net6.0\StoryGame.pdb
+C:\Users\FABI54148\source\repos\StoryGame\obj\Debug\net6.0\StoryGame.csproj.AssemblyReference.cache
+C:\Users\FABI54148\source\repos\StoryGame\obj\Debug\net6.0\StoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FABI54148\source\repos\StoryGame\obj\Debug\net6.0\StoryGame.AssemblyInfoInputs.cache
+C:\Users\FABI54148\source\repos\StoryGame\obj\Debug\net6.0\StoryGame.AssemblyInfo.cs
+C:\Users\FABI54148\source\repos\StoryGame\obj\Debug\net6.0\StoryGame.csproj.CoreCompileInputs.cache
+C:\Users\FABI54148\source\repos\StoryGame\obj\Debug\net6.0\StoryGame.dll
+C:\Users\FABI54148\source\repos\StoryGame\obj\Debug\net6.0\refint\StoryGame.dll
+C:\Users\FABI54148\source\repos\StoryGame\obj\Debug\net6.0\StoryGame.pdb
+C:\Users\FABI54148\source\repos\StoryGame\obj\Debug\net6.0\StoryGame.genruntimeconfig.cache
+C:\Users\FABI54148\source\repos\StoryGame\obj\Debug\net6.0\ref\StoryGame.dll
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\bin\Debug\net6.0\StoryGame.exe
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\bin\Debug\net6.0\StoryGame.deps.json
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\bin\Debug\net6.0\StoryGame.runtimeconfig.json
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\bin\Debug\net6.0\StoryGame.dll
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\bin\Debug\net6.0\StoryGame.pdb
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.csproj.AssemblyReference.cache
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.AssemblyInfoInputs.cache
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.AssemblyInfo.cs
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.csproj.CoreCompileInputs.cache
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.dll
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\obj\Debug\net6.0\refint\StoryGame.dll
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.pdb
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.genruntimeconfig.cache
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\StoryGame\obj\Debug\net6.0\ref\StoryGame.dll
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\bin\Debug\net6.0\StoryGame.exe
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\bin\Debug\net6.0\StoryGame.deps.json
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\bin\Debug\net6.0\StoryGame.runtimeconfig.json
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\bin\Debug\net6.0\StoryGame.dll
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\bin\Debug\net6.0\StoryGame.pdb
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.AssemblyInfoInputs.cache
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.AssemblyInfo.cs
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.csproj.CoreCompileInputs.cache
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.dll
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\obj\Debug\net6.0\refint\StoryGame.dll
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.pdb
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\obj\Debug\net6.0\StoryGame.genruntimeconfig.cache
+C:\Users\fabi54148\OneDrive - LHCGROUP\Desktop\Programs\StoryGame\obj\Debug\net6.0\ref\StoryGame.dll
